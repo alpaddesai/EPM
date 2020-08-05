@@ -8,3 +8,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ### Program Manager Tasks
 ![image](ProgramManager.png)
+
+### CAPM
+![image](CAPM.jpg)
