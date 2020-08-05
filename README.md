@@ -5,3 +5,6 @@ The project provides an introduction to program management cycle. Confidential i
 Please download the executable in https://github.com/alpaddesai/ProgramManagement/releases
 
 All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
+
+### Program Manager
+![image](ProgramManager.png)
