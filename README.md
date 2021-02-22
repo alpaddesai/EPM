@@ -12,4 +12,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### CAPM
 ![image](CAPM.jpg)
 
+## Interest
+![image](Rockwell.jpg)
+
 Further reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
