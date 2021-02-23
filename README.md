@@ -15,4 +15,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Interest
 ![image](Rockwell.jpg)
 
-Further reference : https://github.com/alpaddesai/NewProductDevelopmentProcesses
+Further reference : https://github.com/alpaddesai/NewProductDevelopmentProcessesv and https://github.com/alpaddesai/PowerandInfluentialSkills
