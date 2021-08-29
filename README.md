@@ -10,7 +10,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](ProgramManager.png)
 
 ### CAPM
-![image](CAPM.jpg)
+![image](CAPMCertificate.jpg)
 
 ## Interest
 ![image](Rockwell.jpg)
