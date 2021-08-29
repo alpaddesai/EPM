@@ -12,6 +12,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Certified Associate in Project Management
 ![image](CAPMCertificate.jpg)
 
+## ProjectSchedule
+![image](ProjectSchedule.png)
+
 ## Financial Analysis
 ![image](FinancialAnalysisImage.png)
 
