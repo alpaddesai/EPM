@@ -12,6 +12,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### CAPM
 ![image](CAPMCertificate.jpg)
 
+## Financial Analysis
+![image[(FinancialAnalysisImage.png)
+
 ## Interest
 ![image](Rockwell.jpg)
 
