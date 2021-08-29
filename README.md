@@ -9,7 +9,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
-### CAPM
+### Certificate Associate in Project Management
 ![image](CAPMCertificate.jpg)
 
 ## Financial Analysis
