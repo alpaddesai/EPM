@@ -13,7 +13,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](CAPMCertificate.jpg)
 
 ## Financial Analysis
-![image[(FinancialAnalysisImage.png)
+![image](FinancialAnalysisImage.png)
 
 ## Interest
 ![image](FinancialAnalysisImage.png)
