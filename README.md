@@ -18,4 +18,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Interest
 ![image](FinancialAnalysisImage.png)
 
-Further reference : https://github.com/alpaddesai/NewProductDevelopmentProcessesv , https://github.com/alpaddesai/EconomicDecisionMaking ,   https://github.com/alpaddesai/SystemsEngineering , and https://github.com/alpaddesai/PowerandInfluentialSkills
+Further reference : https://github.com/alpaddesai/NewProductDevelopmentProcessesv , https://github.com/alpaddesai/EconomicDecisionMaking ,   https://github.com/alpaddesai/SystemsEngineering and https://github.com/alpaddesai/PowerandInfluentialSkills
