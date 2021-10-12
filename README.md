@@ -15,7 +15,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Financial Analysis
 ![image](FinancialAnalysisImage.png)
 
-## Interest
+## Interest PMO office
 ![image](Rockwell.jpg)
 
 Further reference :  https://github.com/alpaddesai/SystemsEngineering ,  https://github.com/alpaddesai/EconomicDecisionMaking  and https://github.com/alpaddesai/PowerandInfluentialSkills
