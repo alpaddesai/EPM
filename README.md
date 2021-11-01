@@ -12,9 +12,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Project Schedule
 ![image](ProjectSchedule.png)
 
-## Financial Analysis
-![image](FinancialAnalysisImage.png)
-
 ## Interest PMO office
 ![image](Rockwell.jpg)
 
