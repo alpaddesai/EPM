@@ -15,4 +15,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Interest PMO office
 ![image](Rockwell.jpg)
 
-Further reference :  https://github.com/alpaddesai/SystemsEngineering ,  https://github.com/alpaddesai/EconomicDecisionMaking  and https://github.com/alpaddesai/PowerandInfluentialSkills
+Further reference :  https://github.com/alpaddesai/SystemsEngineering and  https://github.com/alpaddesai/EconomicDecisionMaking 
