@@ -9,6 +9,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
+## CAPM
+![image](CAPMCertificate.jpg)
+
 ## Project Schedule
 ![image](ProjectSchedule.png)
 
