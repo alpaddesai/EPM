@@ -12,9 +12,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## CAPM
 ![image](CAPMCertificate.jpg)
 
-## Project Schedule
-![image](ProjectSchedule.png)
-
 ## Interest PMO office
 ![image](Rockwell.jpg)
 
