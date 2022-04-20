@@ -15,4 +15,4 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Graduate admission letter
 ![image](EngineeringMgmt.png)
 
-Further reference :  https://github.com/alpaddesai/SystemsEngineering and  https://github.com/alpaddesai/EconomicDecisionMaking 
+Further reference :  https://github.com/alpaddesai/SystemsEngineering , https://github.com/alpaddesai/UndergradTestScores_PowerandInfluentialSkills and  https://github.com/alpaddesai/EconomicDecisionMaking 
