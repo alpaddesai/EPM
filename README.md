@@ -16,6 +16,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](EngineeringMgmt.png)
 
 ## Application of blockchain technology
-![image](BlockchainApplications.png)
+![image](BlockchainApplications.jpg)
 
 Further reference :  https://github.com/alpaddesai/SystemsEngineering , https://github.com/alpaddesai/UndergradTestScores_PowerandInfluentialSkills and  https://github.com/alpaddesai/EconomicDecisionMaking 
