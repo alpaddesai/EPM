@@ -12,9 +12,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## CAPM
 ![image](CAPMCertificate.jpg)
 
-## Graduate admission letter
-![image](EngineeringMgmt.png)
-
 ## Applications of blockchain technology 
 ![image](BlockchainApplications.jpg)
 ##### https://research.aimultiple.com/blockchain-applications/
