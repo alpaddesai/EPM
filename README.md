@@ -14,6 +14,13 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ## Applications of blockchain technology 
 ![image](BlockchainApplications.jpg)
+
+## Business case study smart home infrastructure for elderly
+![image](Market Sensing I.jpg)
+
+## Business case study smart home infrastructure for elderly
+![image](Health care databases II.jpg)
+
 ##### https://research.aimultiple.com/blockchain-applications/
 
 Further reference : https://github.com/alpaddesai/MedicalDevices and https://github.com/alpaddesai/SoftwareEngineering.
