@@ -16,7 +16,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ![image](BlockchainApplications.jpg)
 
 ## Business case study smart home infrastructure for elderly
-![image](Market Sensing.jpg)
+![image](Market Sense.jpg)
 
 ## Business case study smart home infrastructure for elderly
 ![image](Health care databases.jpg)
