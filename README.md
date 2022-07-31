@@ -21,6 +21,9 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Business case study smart home infrastructure for elderly
 ![image](HealthCareDatabases.jpg)
 
+## PMBOK
+![image](Tableau1.jpg)
+
 ##### https://research.aimultiple.com/blockchain-applications/
 
 Further reference : https://github.com/alpaddesai/MedicalDevices and https://github.com/alpaddesai/SoftwareEngineering.
