@@ -26,4 +26,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Further reference : https://github.com/alpaddesai/MedicalDevices and https://github.com/alpaddesai/SoftwareEngineering.
