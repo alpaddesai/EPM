@@ -9,9 +9,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
-## Applications of blockchain technology 
-![image](BlockchainApplications.jpg)
-
 ## Business case study smart home infrastructure for elderly
 ![image](MarketSense.jpg)
 
