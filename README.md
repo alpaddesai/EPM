@@ -9,15 +9,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
-## Business case study smart home infrastructure for elderly
-![image](MarketSense.jpg)
-
-## Business case study smart home infrastructure for elderly
-![image](HealthCareDatabases.jpg)
-
-## PMBOK
-![image](Tableau1.jpg)
-
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
