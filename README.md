@@ -1,4 +1,4 @@
-# Program Management
+# Engineering Project Management
 
 The project provides an introduction to program management cycle. Confidential information is not displayed. 
 
