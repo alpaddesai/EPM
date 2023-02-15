@@ -16,6 +16,27 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
+![image](ProjectSchedule.png)
+
+![image](ProjectTracking.jpg)
+
+![image](ChangeManagementProcessI.jpg)
+
+![image](ChangeManagementProcessII.jpg)
+
+![image](ChangeManagementProcessIII.jpg)
+
+![image](ChangeManagementProcessIV.jpg)
+
+## Java project
+![image](JavaProject1.png)
+
+## Java project resource allocation
+![image](ResourceAllocationVacation.jpg)
+
+## Java project 
+![image](resourceAllocationSocialEngagements.jpg)
+
 ![image](USCopyrightCertificate.png)
 
 ![image](Ethics.jpg)
