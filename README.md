@@ -16,7 +16,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ### Program Manager Tasks
 ![image](ProgramManager.png)
 
-![image](ProjectSchedule.png)
+![image](ProjectTracking.png)
 
 ![image](ChangeManagementProcessI.jpg)
 
