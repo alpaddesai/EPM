@@ -18,7 +18,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 
 ![image](ProjectSchedule.png)
 
-![image](ProjectTracking.png)
+![image](ProjectTracking.jpg)
 
 ![image](ChangeManagementProcessI.jpg)
 
